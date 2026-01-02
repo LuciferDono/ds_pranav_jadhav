@@ -9,7 +9,6 @@ The project follows a standardized data science submission format:
 ```text
 ds_report/
 ├── notebook_1.ipynb       # Data cleaning, merging, and exploratory data analysis
-├── notebook_2.ipynb       # (Optional) Secondary analysis or advanced modeling
 ├── csv_files/             # Processed datasets and intermediate outputs
 ├── outputs/               # Visualizations (PnL, Position Sizing, Efficiency charts)
 ├── ds_report.pdf          # Final formal analytical report
@@ -30,5 +29,3 @@ ds_report/
 2.  Ensure you have the required Python libraries installed: `pandas`, `numpy`, `matplotlib`, `seaborn`.
 3.  The notebook is configured to load data directly from the provided Google Drive links.
 
-## Contact
-For further information regarding the analysis or methodology, please contact the project lead.
